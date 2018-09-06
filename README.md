@@ -1,2 +1,3 @@
 # Hello-World
 The first one. 
+Hello, and welcome to the first file. Enjoy! There's not much here...
